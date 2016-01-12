@@ -1,6 +1,6 @@
 ![Material design library logo](images/logo.png)
 
-# Material Design Android Library
+# 材料设计的Andr​​oid库
 
 <a href="https://play.google.com/store/apps/details?id=com.gc.demomaterialdesign">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
@@ -31,9 +31,9 @@
     * [Dialog](#dialog)
     * [Color selector](#color-selector)
 
-## How to use
+## 如何使用
 
-If you want use this library, you only have to download MaterialDesign project, import it into your workspace and add the project as a library in your android project settings.
+如果你想使用这个库，你只需要下载MaterialDesign项目，将其导入到你的工作空间，并添加项目作为你的android项目设置库。
 
 If you prefer it, you can use the gradle dependency, you have to add these lines in your build.gradle file:
 
